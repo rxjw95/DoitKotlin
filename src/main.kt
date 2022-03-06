@@ -1,7 +1,7 @@
-import learn.Person as User
-
 fun main() {
-    val user = User("wook", 28)
+    val name = "wook"
+    var age = 28
 
-    println(user.name);
+    // name = "noname"  // error
+    age = 27
 }

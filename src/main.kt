@@ -1,7 +1,6 @@
 fun main() {
-    val name = "wook"
-    var age = 28
-
-    // name = "noname"  // error
-    age = 27
+    val uint = 123u
+    val ubyte:UByte = 123u
+    val ushort:UShort = 123u
+    val ulong = 124uL
 }
